@@ -1,0 +1,24 @@
+header {
+  width: 100%;
+  background-color: #333333;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.caption {
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+  padding: 5px;
+  font-size: 1.5rem;
+  border-radius: 5px;
+}
+
+
+p {
+  width: 50vw;
+  font-size: 1.5rem;
+}
+
+
+  
